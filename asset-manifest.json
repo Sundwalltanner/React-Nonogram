@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-nonogram/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-nonogram/static/js/main.d397d3fa.chunk.js",
+    "main.js.map": "/react-nonogram/static/js/main.d397d3fa.chunk.js.map",
+    "runtime-main.js": "/react-nonogram/static/js/runtime-main.bc2643d1.js",
+    "runtime-main.js.map": "/react-nonogram/static/js/runtime-main.bc2643d1.js.map",
+    "static/js/2.6afe9531.chunk.js": "/react-nonogram/static/js/2.6afe9531.chunk.js",
+    "static/js/2.6afe9531.chunk.js.map": "/react-nonogram/static/js/2.6afe9531.chunk.js.map",
+    "index.html": "/react-nonogram/index.html",
+    "precache-manifest.1c4fbe3e60ff4821cc36d21f4487e66d.js": "/react-nonogram/precache-manifest.1c4fbe3e60ff4821cc36d21f4487e66d.js",
+    "service-worker.js": "/react-nonogram/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-nonogram/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6afe9531.chunk.js.LICENSE.txt": "/react-nonogram/static/js/2.6afe9531.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc2643d1.js",
+    "static/js/2.6afe9531.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d397d3fa.chunk.js"
+  ]
+}
