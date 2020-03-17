@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Nonogram/static/css/main.5f361e03.chunk.css",
-    "main.js": "/React-Nonogram/static/js/main.f22dbcff.chunk.js",
-    "main.js.map": "/React-Nonogram/static/js/main.f22dbcff.chunk.js.map",
+    "main.js": "/React-Nonogram/static/js/main.3ac6e8c2.chunk.js",
+    "main.js.map": "/React-Nonogram/static/js/main.3ac6e8c2.chunk.js.map",
     "runtime-main.js": "/React-Nonogram/static/js/runtime-main.a21b16de.js",
     "runtime-main.js.map": "/React-Nonogram/static/js/runtime-main.a21b16de.js.map",
     "static/js/2.8c0c4a92.chunk.js": "/React-Nonogram/static/js/2.8c0c4a92.chunk.js",
     "static/js/2.8c0c4a92.chunk.js.map": "/React-Nonogram/static/js/2.8c0c4a92.chunk.js.map",
     "index.html": "/React-Nonogram/index.html",
-    "precache-manifest.0e63030d39ee266213f94983b34f75d3.js": "/React-Nonogram/precache-manifest.0e63030d39ee266213f94983b34f75d3.js",
+    "precache-manifest.3e6c8155936de3b701bde93cee0be8ec.js": "/React-Nonogram/precache-manifest.3e6c8155936de3b701bde93cee0be8ec.js",
     "service-worker.js": "/React-Nonogram/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/React-Nonogram/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.8c0c4a92.chunk.js.LICENSE.txt": "/React-Nonogram/static/js/2.8c0c4a92.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a21b16de.js",
     "static/js/2.8c0c4a92.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f22dbcff.chunk.js"
+    "static/js/main.3ac6e8c2.chunk.js"
   ]
 }
