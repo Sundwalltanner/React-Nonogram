@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68ddcb95e79759b8ce4d977bda40ca2e",
+    "revision": "dc1c0d9fcc20b71d53c70677218ab75c",
     "url": "/React-Nonogram/index.html"
   },
   {
-    "revision": "0406e3b2420f71f4b083",
+    "revision": "acb618248fa7b2be5f51",
     "url": "/React-Nonogram/static/css/main.abeecf65.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Nonogram/static/js/2.8f9b3a1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0406e3b2420f71f4b083",
-    "url": "/React-Nonogram/static/js/main.d4b62b3a.chunk.js"
+    "revision": "acb618248fa7b2be5f51",
+    "url": "/React-Nonogram/static/js/main.2292f831.chunk.js"
   },
   {
     "revision": "5ae4146704ad0fa6a3e8",
