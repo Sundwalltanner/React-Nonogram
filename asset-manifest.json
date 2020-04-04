@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Nonogram/static/css/main.abeecf65.chunk.css",
-    "main.js": "/React-Nonogram/static/js/main.2292f831.chunk.js",
-    "main.js.map": "/React-Nonogram/static/js/main.2292f831.chunk.js.map",
+    "main.css": "/React-Nonogram/static/css/main.b64c9e91.chunk.css",
+    "main.js": "/React-Nonogram/static/js/main.425caf90.chunk.js",
+    "main.js.map": "/React-Nonogram/static/js/main.425caf90.chunk.js.map",
     "runtime-main.js": "/React-Nonogram/static/js/runtime-main.a21b16de.js",
     "runtime-main.js.map": "/React-Nonogram/static/js/runtime-main.a21b16de.js.map",
     "static/js/2.8f9b3a1b.chunk.js": "/React-Nonogram/static/js/2.8f9b3a1b.chunk.js",
     "static/js/2.8f9b3a1b.chunk.js.map": "/React-Nonogram/static/js/2.8f9b3a1b.chunk.js.map",
     "index.html": "/React-Nonogram/index.html",
-    "precache-manifest.afbdfef71b89e2e023d2d74126aab54a.js": "/React-Nonogram/precache-manifest.afbdfef71b89e2e023d2d74126aab54a.js",
+    "precache-manifest.c4fb5d654269e970b52951892e550ca8.js": "/React-Nonogram/precache-manifest.c4fb5d654269e970b52951892e550ca8.js",
     "service-worker.js": "/React-Nonogram/service-worker.js",
-    "static/css/main.abeecf65.chunk.css.map": "/React-Nonogram/static/css/main.abeecf65.chunk.css.map",
+    "static/css/main.b64c9e91.chunk.css.map": "/React-Nonogram/static/css/main.b64c9e91.chunk.css.map",
     "static/js/2.8f9b3a1b.chunk.js.LICENSE.txt": "/React-Nonogram/static/js/2.8f9b3a1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a21b16de.js",
     "static/js/2.8f9b3a1b.chunk.js",
-    "static/css/main.abeecf65.chunk.css",
-    "static/js/main.2292f831.chunk.js"
+    "static/css/main.b64c9e91.chunk.css",
+    "static/js/main.425caf90.chunk.js"
   ]
 }
